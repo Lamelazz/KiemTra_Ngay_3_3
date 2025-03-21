@@ -1,7 +1,9 @@
 # Họ và tên: Nguyễn Tùng Lâm
 # Lớp: D17CNPM5
 # MSV: 22810310371
-## Kiểm tra 03/03/2025: Bar-Code-Scan-App
+## Thực hành 21/03/2025 (N2): Bar-Code-Scan-App - Tiếp
 ## Kết quả
-![Home.jpg](Home.jpg)
-![Scan.jpg](Scan.jpg)
+![anh1.jpg](anh1.jpg)
+![anh2.jpg](anh2.jpg)
+![anh3.jpg](anh3.jpg)
+![anh4.jpg](anh4.jpg)
