@@ -18,7 +18,7 @@ const HomeScreen = () => {
           <Text style={styles.greeting}>Hello 👋</Text>
           <Text style={styles.username}>Christie Doe</Text>
         </View>
-        <Image source={{ uri: "https://i.pravatar.cc/102" }} style={styles.profilePic} />
+        <Image source={{ uri: "https://i.pravatar.cc/103" }} style={styles.profilePic} />
       </View>
 
       {/* Your Insights */}
